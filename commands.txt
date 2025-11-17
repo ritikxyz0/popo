@@ -1,0 +1,6 @@
+/start
+/help
+/hello
+/test
+/reload
+/cmds
